@@ -1,0 +1,11 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "mongod": "^2.0.0"
+  }
+}
